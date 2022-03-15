@@ -3,3 +3,5 @@ https://demonstrations.wolfram.com/
 https://mathworld.wolfram.com/
 https://minimal.sitehost.iu.edu/research/claynotes.pdf
 http://ceadserv1.nku.edu/longa//classes/mat320/mathematica/multcalc.htm
+https://www.wolfram.com/language/11/3d-printing/create-3d-printable-plots.html?product=language
+https://www.wolfram.com/wolfram-u/catalog/vis423/
