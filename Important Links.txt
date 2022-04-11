@@ -7,3 +7,4 @@ https://www.wolfram.com/language/11/3d-printing/create-3d-printable-plots.html?p
 https://www.wolfram.com/wolfram-u/catalog/vis423/
 https://mathproofs.blogspot.com/2005/07/mapping-cube-to-sphere.html
 http://www.evolution-of-genius.de/gallery/default3.htm
+https://mathematica.stackexchange.com/questions/72203/can-mathematica-solve-plateaus-problem-finding-a-minimal-surface-with-specifie
